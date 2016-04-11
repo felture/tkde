@@ -1,0 +1,120 @@
+\relax 
+\citation{workshop_prob_pref,case_basket,binaryBasket,paps}
+\citation{Chen2012,Srikant1996s}
+\citation{next,fpmc}
+\citation{fpmc}
+\citation{mikolov2013}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}}
+\newlabel{sec:introduction}{{1}{1}}
+\citation{collaborative_improved,workshop_prob_pref}
+\citation{sequential_suvery}
+\citation{zimdar2001}
+\citation{Mobasher2002}
+\citation{Yap2012}
+\citation{Shani2002}
+\citation{Chen2012}
+\citation{next,Su2009}
+\citation{amazon}
+\citation{binaryBasket}
+\citation{Hu2008}
+\citation{Pan2009}
+\citation{bpr}
+\citation{fpmc}
+\citation{fpmc}
+\citation{fpmc}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Related Work}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Motivation}{2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Next basket recommendation by linear combination of sequential and general factors. The numbers above the movie denote the recommendation scores produced by the recommender.\relax }}{3}}
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:linear}{{1}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Our Approach}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Formalization}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}HRM Model}{3}}
+\citation{Arisoy2012}
+\citation{efficent,mikolov2013}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces The HRM model architecture. A two-layer structure is employed to construct a hybrid representation over user and items from last transaction, which is used to predict the next purchased items.\relax }}{4}}
+\newlabel{fig:hrm}{{2}{4}}
+\newlabel{eq:softmax}{{1}{4}}
+\citation{mikolov2014,mikolov2013}
+\citation{mikolov2014}
+\citation{fpmc}
+\citation{mikolov2013}
+\citation{fpmc}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Learning and Prediction}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Connection to Previous Models}{5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.4.1}HRM vs. Markov Chain Model}{5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.4.2}HRM vs. Matrix Factorization Model}{5}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Statistics of the datasets used in our experiments.\relax }}{6}}
+\newlabel{t:t1}{{1}{6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.4.3}HRM vs. FPMC}{6}}
+\newlabel{eq:fpmcloss}{{2}{6}}
+\newlabel{eq:hat}{{3}{6}}
+\newlabel{eq:avgavgneg1}{{4}{6}}
+\newlabel{eq:agg}{{5}{6}}
+\newlabel{eq:avgloss}{{6}{6}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}DHRM}{6}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Performance comparison among four versions of HRM over three datasets\relax }}{7}}
+\newlabel{t:t2}{{2}{7}}
+\@writefile{lot}{\contentsline {subtable}{\numberline{(a)}{\ignorespaces {Performance comparison on Ta-Feng}}}{7}}
+\@writefile{lot}{\contentsline {subtable}{\numberline{(b)}{\ignorespaces {Performance comparison on BeiRen}}}{7}}
+\@writefile{lot}{\contentsline {subtable}{\numberline{(c)}{\ignorespaces {Performance comparison on T-Mall}}}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces The DHRM model architecture. Users` current interest is aggregated by two parts, which are users` dynamic interests and users` static interests respectively. we use a recurrent neural work to learn users` dynamic interest by considering all transactions, then users` static interest and dynamic interest are merged together to represent users` current interest. Finally DHRM use users` current interest predict the next purchased items.\relax }}{7}}
+\newlabel{fig:hrm}{{3}{7}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces notations of DHRM\relax }}{7}}
+\newlabel{t:notations}{{3}{7}}
+\citation{fpmc}
+\citation{Lee2001}
+\citation{fpmc}
+\@writefile{loa}{\contentsline {algorithm}{\numberline {1}{\ignorespaces Training Dynamic Hierarchical Representation Model(DHRM)\relax }}{8}}
+\newlabel{al_dhrm}{{1}{8}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Evaluation}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Dataset}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Baseline Methods}{8}}
+\citation{Godoy2005,Lin2002,fpmc}
+\citation{Karypis2001,Xiang2010}
+\citation{Jaervelin2000}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Performance comparison of HRM among TOP,MC,NMF, and FPMC over three datasets. The dimensionality is increased from 50 to 200 on Ta-Feng and BeiRen, and 10 to 25 on T-Mall.\relax }}{9}}
+\newlabel{fig:performance}{{4}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}Evaluation Metrics}{9}}
+\citation{fpmc}
+\citation{fpmc}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.4}Comparison among Different HRMs}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.5}Comparison against Baselines}{10}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Performance comparison on Ta-Feng over different user groups with dimensionality set as $50$.\relax }}{10}}
+\newlabel{t:t3}{{4}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.6}The Impact of Negative Sampling}{10}}
+\bibstyle{abbrv}
+\bibdata{sigproc}
+\bibcite{next}{1}
+\bibcite{collaborative_improved}{2}
+\bibcite{zimdar2001}{3}
+\bibcite{Arisoy2012}{4}
+\bibcite{Chen2012}{5}
+\bibcite{sequential_suvery}{6}
+\bibcite{workshop_prob_pref}{7}
+\bibcite{case_basket}{8}
+\bibcite{Godoy2005}{9}
+\bibcite{Hu2008}{10}
+\bibcite{Jaervelin2000}{11}
+\bibcite{binaryBasket}{12}
+\bibcite{Karypis2001}{13}
+\bibcite{Lee2001}{14}
+\bibcite{Lin2002}{15}
+\bibcite{amazon}{16}
+\bibcite{efficent}{17}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Performance variation in terms of F1-score against the number of negative samples over three datasets with HRM$_{MaxMax}$. The number of negative samples is increased from 1 to 25 on Ta-Feng, 10 to 60 on BeiRen, and from 1 to 6 on T-Mall.\relax }}{11}}
+\newlabel{fig:neg}{{5}{11}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Conclusion}{11}}
+\@writefile{toc}{\contentsline {section}{References}{11}}
+\bibcite{Mobasher2002}{18}
+\bibcite{Pan2009}{19}
+\bibcite{paps}{20}
+\bibcite{mikolov2014}{21}
+\bibcite{bpr}{22}
+\bibcite{fpmc}{23}
+\bibcite{Shani2002}{24}
+\bibcite{Srikant1996s}{25}
+\bibcite{Su2009}{26}
+\bibcite{mikolov2013}{27}
+\bibcite{Xiang2010}{28}
+\bibcite{Yap2012}{29}

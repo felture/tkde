@@ -1,0 +1,7 @@
+simillar with HRM, the improved DHRM also represents each user and item as a vector in a continous space,
+different with HRM, DHRM uses a recurrent network to store all the sequential behaviors, thus it can solve the 
+sparse problem , and enjoy the long-dependency sequencial behaviors.
+
+
+user confident in recommendation
+attention

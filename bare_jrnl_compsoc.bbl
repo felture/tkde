@@ -1,0 +1,187 @@
+\begin{thebibliography}{10}
+
+\bibitem{next}
+G.~Adomavicius and A.~Tuzhilin.
+\newblock Toward the next generation of recommender systems: A survey of the
+  state-of-the-art and possible extensions.
+\newblock {\em IEEE Trans. on Knowl. and Data Eng.}, 17(6):734--749, June 2005.
+
+\bibitem{collaborative_improved}
+T.~R. Andreas~Mild.
+\newblock An improved collaborative filtering approach for predicting
+  cross-category purchases based on binary market basket data.
+\newblock {\em Journal of Retailing and Consumer Services}, 2003.
+
+\bibitem{zimdar2001}
+C.~M. Andrew~Zimdars, David Maxwell~Chickering.
+\newblock Using temporal data for making recommendations.
+\newblock {\em The Conference on Uncertainty in Artificial Intelligence}, 2001.
+
+\bibitem{Arisoy2012}
+E.~Arisoy, T.~N. Sainath, B.~Kingsbury, and B.~Ramabhadran.
+\newblock Deep neural network language models.
+\newblock In {\em Proceedings of the NAACL-HLT 2012 Workshop: Will We Ever
+  Really Replace the N-gram Model? On the Future of Language Modeling for HLT},
+  WLM '12, pages 20--28, Stroudsburg, PA, USA, 2012. Association for
+  Computational Linguistics.
+
+\bibitem{Chen2012}
+S.~Chen, J.~L. Moore, D.~Turnbull, and T.~Joachims.
+\newblock Playlist prediction via metric embedding.
+\newblock In {\em Proceedings of the 18th ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, KDD '12, pages 714--722, New York,
+  NY, USA, 2012. ACM.
+
+\bibitem{sequential_suvery}
+A.~G. Chetna~Chand, Amit~Thakkar.
+\newblock Sequential pattern mining: Survey and current research challenges.
+\newblock {\em International Journal of Soft Computing and Engineering}, 2012.
+
+\bibitem{workshop_prob_pref}
+A.~Christidis, K.
+\newblock Exploring customer preferences with probabilistic topics models.
+\newblock In {\em European Conference on Machine Learning and Principles and
+  Practice of Knowledge Discovery in Databases}, 2010.
+
+\bibitem{case_basket}
+M.~Gatzioura, A. ;Sanchez~Marre.
+\newblock A case-based recommendation approach for market basket data.
+\newblock {\em Intelligent Systems, IEEE}, 2014.
+
+\bibitem{Godoy2005}
+D.~Godoy and A.~Amandi.
+\newblock User profiling in personal information agents: A survey.
+\newblock {\em Knowl. Eng. Rev.}, 20(4):329--361, Dec. 2005.
+
+\bibitem{Hu2008}
+Y.~Hu, Y.~Koren, and C.~Volinsky.
+\newblock Collaborative filtering for implicit feedback datasets.
+\newblock In {\em Proceedings of the 2008 Eighth IEEE International Conference
+  on Data Mining}, ICDM '08, pages 263--272, Washington, DC, USA, 2008. IEEE
+  Computer Society.
+
+\bibitem{Jaervelin2000}
+K.~J\"{a}rvelin and J.~Kek\"{a}l\"{a}inen.
+\newblock Ir evaluation methods for retrieving highly relevant documents.
+\newblock In {\em Proceedings of the 23rd Annual International ACM SIGIR
+  Conference on Research and Development in Information Retrieval}, SIGIR '00,
+  pages 41--48, New York, NY, USA, 2000. ACM.
+
+\bibitem{binaryBasket}
+S.~K. Jong-Seok~Lee, Chi-Hyuck Jun£¬Jaewook~Lee.
+\newblock Classification-based collaborative filtering using market basket
+  data.
+\newblock {\em Expert Systems with Applications}, 2005.
+
+\bibitem{Karypis2001}
+G.~Karypis.
+\newblock Evaluation of item-based top-n recommendation algorithms.
+\newblock In {\em Proceedings of the Tenth International Conference on
+  Information and Knowledge Management}, CIKM '01, pages 247--254, New York,
+  NY, USA, 2001. ACM.
+
+\bibitem{Lee2001}
+D.~D. Lee and H.~S. Seung.
+\newblock Algorithms for non-negative matrix factorization.
+\newblock In T.~Leen, T.~Dietterich, and V.~Tresp, editors, {\em Advances in
+  Neural Information Processing Systems 13}, pages 556--562. MIT Press, 2001.
+
+\bibitem{Lin2002}
+W.~Lin, S.~A. Alvarez, and C.~Ruiz.
+\newblock Efficient adaptive-support association rule mining for recommender
+  systems.
+\newblock {\em Data Min. Knowl. Discov.}, 6(1):83--105, Jan. 2002.
+
+\bibitem{amazon}
+G.~Linden, B.~Smith, and J.~York.
+\newblock Amazon.com recommendations: Item-to-item collaborative filtering.
+\newblock {\em IEEE Internet Computing}, 7(1):76--80, Jan. 2003.
+
+\bibitem{efficent}
+T.~Mikolov, K.~Chen, G.~Corrado, and J.~Dean.
+\newblock Efficient estimation of word representations in vector space.
+\newblock {\em CoRR}, abs/1301.3781, 2013.
+
+\bibitem{Mobasher2002}
+T.~Mobasher, B. ; Sch. of Comput.~Sci.
+\newblock Using sequential and non-sequential patterns in predictive web usage
+  mining tasks.
+\newblock {\em The IEEE International Conference on Data Mining series}, 2002.
+
+\bibitem{Pan2009}
+R.~Pan and M.~Scholz.
+\newblock Mind the gaps: Weighting the unknown in large-scale one-class
+  collaborative filtering.
+\newblock In {\em Proceedings of the 15th ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, KDD '09, pages 667--676, New York,
+  NY, USA, 2009. ACM.
+
+\bibitem{paps}
+Y.~L. Pengfei~Wang, Jiafeng~Guo.
+\newblock Modeling retail transaction data for personalized shopping
+  recommendation.
+\newblock In {\em 23rd International Conference on Information and Knowledge
+  Management}, 2014.
+
+\bibitem{mikolov2014}
+T.~M. Quoc V.~Le.
+\newblock distributed representations of sentences and documents.
+\newblock {\em The 31st International Conference on Machine Learning}, 2014.
+
+\bibitem{bpr}
+S.~Rendle, C.~Freudenthaler, Z.~Gantner, and L.~Schmidt-Thieme.
+\newblock Bpr: Bayesian personalized ranking from implicit feedback.
+\newblock In {\em Proceedings of the Twenty-Fifth Conference on Uncertainty in
+  Artificial Intelligence}, UAI '09, pages 452--461, Arlington, Virginia,
+  United States, 2009. AUAI Press.
+
+\bibitem{fpmc}
+S.~Rendle, C.~Freudenthaler, and L.~Schmidt-Thieme.
+\newblock Factorizing personalized markov chains for next-basket
+  recommendation.
+\newblock In {\em Proceedings of the 19th International Conference on World
+  Wide Web}, WWW '10, pages 811--820, New York, NY, USA, 2010. ACM.
+
+\bibitem{Shani2002}
+G.~Shani, R.~I. Brafman, and D.~Heckerman.
+\newblock An mdp-based recommender system.
+\newblock In {\em Proceedings of the Eighteenth Conference on Uncertainty in
+  Artificial Intelligence}, UAI'02, pages 453--460, San Francisco, CA, USA,
+  2002. Morgan Kaufmann Publishers Inc.
+
+\bibitem{Srikant1996s}
+R.~Srikant and R.~Agrawal.
+\newblock Mining sequential patterns: Generalizations and performance
+  improvements.
+\newblock In {\em Proceedings of the 5th International Conference on Extending
+  Database Technology: Advances in Database Technology}, EDBT '96, pages 3--17,
+  London, UK, UK, 1996. Springer-Verlag.
+
+\bibitem{Su2009}
+X.~Su and T.~M. Khoshgoftaar.
+\newblock A survey of collaborative filtering techniques.
+\newblock {\em Adv. in Artif. Intell.}, 2009:4:2--4:2, Jan. 2009.
+
+\bibitem{mikolov2013}
+K.~C. G. C. J.~D. Tomas~Mikolov, Ilya~Sutskever.
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock {\em Neural Information Processing Systems Foundation}, 2013.
+
+\bibitem{Xiang2010}
+L.~Xiang, Q.~Yuan, S.~Zhao, L.~Chen, X.~Zhang, Q.~Yang, and J.~Sun.
+\newblock Temporal recommendation on graphs via long- and short-term preference
+  fusion.
+\newblock In {\em Proceedings of the 16th ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, KDD '10, pages 723--732, New York,
+  NY, USA, 2010. ACM.
+
+\bibitem{Yap2012}
+G.-E. Yap, X.-L. Li, and P.~S. Yu.
+\newblock Effective next-items recommendation via personalized sequential
+  pattern mining.
+\newblock In {\em Proceedings of the 17th International Conference on Database
+  Systems for Advanced Applications - Volume Part II}, DASFAA'12, pages 48--64,
+  Berlin, Heidelberg, 2012. Springer-Verlag.
+
+\end{thebibliography}
